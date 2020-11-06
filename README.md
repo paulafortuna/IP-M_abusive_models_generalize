@@ -10,7 +10,7 @@ As this was a very complex set of experiments with different phases, this here w
 
 ## Datasets
 
-For these experiments there are some needed datasets. These are not provided on my repository but only listed here instead: [W&H](full-URL-of-wiki-page)(https://github.com/ZeerakW/hatespeech) [Lets go to Quora](https://www.quora.com)
+For these experiments there are some needed datasets. These are not provided on my repository but only listed here instead:[W&H](https://github.com/ZeerakW/hatespeech)
 I also provide a repository where I've conducted some data manipulation for dataset preparation.
 
 For dataset division we kept only train tests when such a division existed. We also use a schema for standardized category conversion:
