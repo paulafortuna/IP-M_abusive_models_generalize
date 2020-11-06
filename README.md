@@ -10,8 +10,7 @@ As this was a very complex experiment with different phases this repository aims
 
 For these experiments there are some needed datasets. These are not provided on my repository but only listed here instead:
 
-{| class="wikitable"
-! Considered class !! Instances used for training !! Instances used for testing
+|Considered class !! Instances used for training !! Instances used for testing
 |-
 | Misogynous || 2800 || 1200
 |-
@@ -22,4 +21,3 @@ For these experiments there are some needed datasets. These are not provided on 
 | Sexism || 3968 || 1702
 |-
 | Sexism || 11835 || 5073
-|}
