@@ -5,7 +5,7 @@ This repository aims at centralizing the code used to support the paper:
 
 
 In this work we test the generalization of models trained with abusive and harms related datasets.
-As this was a very complex experiment with different phases this repository aims at organizing a set of repositories needed for all these experiments.
+As this was a very complex set of experiments with different phases, this here we organize different repositories.
 (Next time I will try to do a more organized software engineer tidy approach :).
 
 ## Datasets
