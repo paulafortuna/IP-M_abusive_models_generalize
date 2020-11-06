@@ -40,10 +40,35 @@ For dataset division we kept only train tests when such a division existed. We a
 | founta     | abusive           | 64366         | 27587        | 14491           | 0.225               |
 | founta     | toxicity          | 64366         | 27587        | 17390           | 0.270               |
 
-## Experiment 1
+## Experiment 1 - Intra dataset classification
 
-## Experiment 2
+In this experiment we use BERT, ALBERT, fastText and SVM for intra dataset binary classification on the classes described previously.
+We used for this the following implementations:
+- SVM
+- fastText
+- BERT
+- ALBERT
 
-## Experiment 3
+## Experiment 2 - Cross dataset classification
 
-## Experiment 4
+In this experiment we use the same models developed in experiment 1 with BERT, ALBERT, fastText and SVM for testing it with data from the remaining classes from the other datasets.
+
+## Experiment 3 - Model generalization prediction with a Random Forest
+
+The results of experiment 2 are now used to build a dataset, together with descriptives on the datasets and models.
+This dataset and applied Random Forest Model can be found in the following repository:
+- Predicting model generalization with a random forest.
+
+## Experiment 4 - Intra and cross dataset Multilingual Classification.
+
+Finally, we conducted some multilingual experiment with the following datasets:
+
+|             | Considered class | Instances used for training | Instances used for testing |
+|-------------|------------------|-----------------------------|----------------------------|
+| Ami_sex_En  | Misogynous       | 2800                        | 1200                       |
+| Ami_sex_It  | Misogynous       | 2800                        | 1200                       |
+| Ami_sex_Sp  | Misogynous       | 2314                        | 993                        |
+| Fort_sex_Pt | Sexism           | 3968                        | 1702                       |
+| W&H_sex_En  | Sexism           | 11835                       | 5073                       |
+
+For models we applied Multilingual BERT.
