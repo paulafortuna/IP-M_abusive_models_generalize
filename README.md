@@ -45,7 +45,7 @@ For dataset division we kept only train tests when such a division existed. We a
 
 In this experiment we use BERT, ALBERT, fastText and SVM for intra dataset binary classification on the classes described previously.
 We used for this the following implementations:
-- SVM
+- [SVM](https://github.com/paulafortuna/abusive_harms_svm_generalization/blob/main/README.md)
 - fastText
 - BERT
 - ALBERT
