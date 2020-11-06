@@ -8,6 +8,8 @@ In this work we test the generalization of models trained with abusive and harms
 As this was a very complex experiment with different phases this repository aims at organizing a set of repositories needed for all these experiments.
 (Next time I will try to do a more organized software engineer tidy approach).
 
+## Datasets
+
 For these experiments there are some needed datasets. These are not provided on my repository but only listed here instead: (with links)
 
 For dataset division we kept only train tests when such a division existed. We also use a schema for standardized category conversion:
@@ -38,3 +40,10 @@ For dataset division we kept only train tests when such a division existed. We a
 | founta     | abusive           | 64366         | 27587        | 14491           | 0.225               |
 | founta     | toxicity          | 64366         | 27587        | 17390           | 0.270               |
 
+## Experiment 1
+
+## Experiment 2
+
+## Experiment 3
+
+## Experiment 4
