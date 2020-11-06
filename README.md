@@ -9,3 +9,10 @@ As this was a very complex experiment with different phases this repository aims
 (Next time I will try to do a more organized software engineer tidy approach).
 
 For these experiments there are some needed datasets. These are not provided on my repository but only listed here instead:
+
+	Considered class	Instances used for training	Instances used for testing
+Ami_sex_En	Misogynous	2800	1200
+Ami_sex_It	Misogynous	2800	1200
+Ami_sex_Sp	Misogynous	2314	993
+Fort_sex_Pt	Sexism	3968	1702
+W&H_sex_En	Sexism	11835	5073
