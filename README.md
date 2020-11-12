@@ -1,11 +1,11 @@
 # IP-M_abusive_models_generalize
 
-This repository aims at centralizing the code used to support the paper:
+This repository aims at putting together all the projects used to support the paper:
 
 
 
 In this work we test the generalization of models trained with abusive and harms related datasets.
-As this was a very complex set of experiments with different phases, this here we organize different repositories.
+As this was a very complex set of experiments with different phases, here we organize different repositories.
 (Next time I will try to do a more organized software engineer tidy approach :).
 
 ## Datasets
