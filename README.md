@@ -52,7 +52,7 @@ We used for this the following implementations:
 
 ## Experiment 2 - Cross dataset classification
 
-In this experiment we use the same models developed in experiment 1 with BERT, ALBERT, fastText and SVM for testing it with data from the remaining classes from the other datasets.
+In this experiment we use the same models developed in experiment 1 with BERT, ALBERT, fastText and SVM for testing it with data from the remaining classes from the other datasets. The cross dataset experiments are provided on the same links as Experiment 1.
 
 ## Experiment 3 - Model generalization prediction with a Random Forest
 
