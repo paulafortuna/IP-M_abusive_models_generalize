@@ -74,4 +74,4 @@ Finally, we conducted some multilingual experiment with the following datasets:
 
 For models we applied: 
 
-- Multilingual BERT.
+- [Multilingual BERT](https://colab.research.google.com/drive/10lZ-cqFZPv9tHrIe0zIhSGjhnA5W-7W4?usp=sharing)
