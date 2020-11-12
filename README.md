@@ -72,4 +72,6 @@ Finally, we conducted some multilingual experiment with the following datasets:
 | Fort_sex_Pt | Sexism           | 3968                        | 1702                       |
 | W&H_sex_En  | Sexism           | 11835                       | 5073                       |
 
-For models we applied Multilingual BERT.
+For models we applied: 
+
+- Multilingual BERT.
