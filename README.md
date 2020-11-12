@@ -48,7 +48,7 @@ We used for this the following implementations:
 - [SVM](https://colab.research.google.com/drive/1yb0rfgFOZt9AeL0Hs5draQCV-e-7wwHz?usp=sharing#scrollTo=4u5nLQ6Fr0FT)
 - [fastText](https://github.com/paulafortuna/abusive_harms_fastText)
 - [BERT](https://colab.research.google.com/drive/1PRrByQvgNYf3cCc4LkN6k5rhw_rM9a9v?usp=sharing)
-- ALBERT
+- [ALBERT](https://colab.research.google.com/drive/1QOfvUiPCZ1xOQp5X70ncwWqR7DtU8MAw?usp=sharing)
 
 ## Experiment 2 - Cross dataset classification
 
