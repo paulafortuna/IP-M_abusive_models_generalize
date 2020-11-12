@@ -62,7 +62,7 @@ This dataset and applied Random Forest Model can be found in the following repos
 
 ## Experiment 4 - Intra and cross dataset Multilingual Classification.
 
-Finally, we conducted some multilingual experiment with the following datasets:
+Finally, we conducted some multilingual experiment with 5 sexism datasets, [Ami_sex_En](http://ceur-ws.org/Vol-2150/overview-AMI.pdf), [Ami_sex_It](http://ceur-ws.org/Vol-2150/overview-AMI.pdf), [Ami_sex_Sp](https://amiibereval2018.wordpress.com/), [Fort_sex_Pt](https://github.com/paulafortuna/Portuguese-Hate-Speech-Dataset) and [W&H_sex_En](https://github.com/ZeerakW/hatespeech):
 
 |             | Considered class | Instances used for training | Instances used for testing |
 |-------------|------------------|-----------------------------|----------------------------|
