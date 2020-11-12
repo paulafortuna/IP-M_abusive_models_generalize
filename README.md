@@ -47,7 +47,7 @@ In this experiment we use BERT, ALBERT, fastText and SVM for intra dataset binar
 We used for this the following implementations:
 - [SVM](https://colab.research.google.com/drive/1yb0rfgFOZt9AeL0Hs5draQCV-e-7wwHz?usp=sharing#scrollTo=4u5nLQ6Fr0FT)
 - [fastText](https://github.com/paulafortuna/abusive_harms_fastText/blob/main/README.md)
-- BERT
+- [BERT](https://colab.research.google.com/drive/1PRrByQvgNYf3cCc4LkN6k5rhw_rM9a9v?usp=sharing)
 - ALBERT
 
 ## Experiment 2 - Cross dataset classification
