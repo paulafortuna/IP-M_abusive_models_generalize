@@ -58,7 +58,7 @@ In this experiment we use the same models developed in experiment 1 with BERT, A
 
 The results of experiment 2 are now used to build a dataset, together with descriptives on the datasets and models.
 This dataset preparation and applied Random Forest Model can be found in the following repositories:
-- Dataset and plot preparation
+- Models dataset and plot preparation
 - Predicting model generalization with a random forest
 
 ## Experiment 4 - Intra and cross dataset Multilingual Classification.
