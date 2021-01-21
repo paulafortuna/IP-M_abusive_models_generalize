@@ -2,7 +2,8 @@
 
 This repository aims at putting together all the projects used to support the paper:
 
-
+*How Well Do Hate Speech, Toxicity, Abusive and Offensive Language Classification Models Generalize Across Datasets?*
+(Accepted at the IP&M journal and the official reference to be added soon)
 
 In this work we test the generalization of models trained with abusive and harms related datasets.
 As this was a very complex set of experiments with different phases, here we organize different repositories.
