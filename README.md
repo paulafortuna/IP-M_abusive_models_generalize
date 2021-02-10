@@ -1,9 +1,20 @@
 # IP-M_abusive_models_generalize
 
-This repository aims at putting together all the projects used to support the paper:
+This repository aims at putting together all the projects used to support the paper (in case you reuse this code or work, please cite it):
 
-*How Well Do Hate Speech, Toxicity, Abusive and Offensive Language Classification Models Generalize Across Datasets?*
-(Accepted at the IP&M journal and the official reference to be added soon)
+@article{FORTUNA2021102524,
+        title = {How well do hate speech, toxicity, abusive and offensive language classification models generalize across datasets?},
+        journal = {Information Processing & Management},
+        volume = {58},
+        number = {3},
+        pages = {102524},
+        year = {2021},
+        issn = {0306-4573},
+        doi = {https://doi.org/10.1016/j.ipm.2021.102524},
+        url = {https://www.sciencedirect.com/science/article/pii/S0306457321000339},
+        author = {Paula Fortuna and Juan Soler-Company and Leo Wanner},
+        keywords = {Hate speech, Offensive language, Classification, Generalization}
+}
 
 In this work we test the generalization of models trained with abusive and harms related datasets.
 As this was a very complex set of experiments with different phases, here we organize different repositories.
